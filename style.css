@@ -6,10 +6,11 @@
  }
  .healthy-food{
      font-size: 20px;
-     width:40%;
+     width:80%;
      font-family: 'Noto Serif', serif;
-     padding-right: 50px;
-     margin-left: 20%;
+     padding-left: 50px;
+     margin-left: 10%;
+     height: 90%;
      
  }
  h2{
@@ -119,15 +120,15 @@
             height: 500%;
             padding-bottom: 10%;
         }
-        .Youtube-sector{
+        #Youtube-sector{
             font-size: 23px;
             margin-left: 100px;
         }
-        .instragram-follow{
+        #instragram-follow{
             font-size: 23px;
             margin-left: 300px;
         }
-        .shot-like{
+        #shot-like{
             font-size: 23px;
             margin-left: 350px;
         }
