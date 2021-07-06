@@ -1,0 +1,145 @@
+.food-net{
+    text-align:center;
+    color:coral;
+    font-size: 50px;
+    
+ }
+ .healthy-food{
+     font-size: 20px;
+     width:40%;
+     font-family: 'Noto Serif', serif;
+     padding-right: 50px;
+     margin-left: 20%;
+     
+ }
+ h2{
+     font-size: 46px;
+     width:200%;
+ }
+ .customer{
+     display: flex;
+     
+ }
+ .picture{
+     width: 300%;
+    padding-left: 200px;
+    font: 900;
+
+    }
+    ul{
+        float:right;
+        padding-right: 10%;
+        padding-bottom: 90%;
+        font-size: 25px;
+        
+        
+ }
+ li{
+     display: inline-block;
+ }
+ ul li a{
+     color:firebrick;
+     padding:10px 20px;
+     border:1px solid orangered;
+     background-color: paleturquoise;
+ }
+ .link-button{
+     background-image: linear-gradient(orangered,orange);
+     color:azure;
+     padding:15px 10px 10px 15px;
+     border-radius: 25px 25px 25px 25px;
+     font-size: 28px;
+     width:50%;
+     margin-left: 20%;
+ }
+
+ 
+ #image{
+     background-image: url(images/7.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 500px;
+     margin-top: 250px;
+      }
+      .person{
+         width:250px;
+         padding-left: 250px;
+          
+     }
+     .personal-detail{
+        width:60%;
+        font-family: 'Times New Roman', Times, serif;
+         font-size: 30px;
+         margin-left:10%;
+}
+.food-net{
+ box-shadow: p 5px 4px 10px grey;
+    padding-right: 30%;
+    margin-right: 200px;
+}
+.food1-pic{
+    width: 300px;
+    padding-right: 350px;
+    padding-top: 100px;
+    border-radius: 25px 25px 25px 25px;
+    margin-right: 300%;
+}
+.delicious{
+    border-radius: 30px  30px 30px 30px;
+    padding-left: 2%;
+    width:20%;
+    padding-right: 4%;
+   box-shadow: 6px 5px 6px 5px grey;
+    border-image-slice:4 ;
+    margin-top: 4%;
+    margin-right: 10%;
+    font-size: 28px;
+    }
+    .women-food{
+        width: 300px;
+        padding-right: 900px;
+        padding-top: 100px;
+        border-radius: 35px 35px 35px 35px;
+        margin-right: 200px;
+         }
+         .network{
+            text-align: center;
+            font-size: 30px;
+            color:darkslategray;
+             }
+        .food{
+            color:orangered;
+        }
+        .name-food{
+            background-color: black;
+            background-size: 100% 100% 100%;
+            color:darkslategray;
+            text-align: center;
+            font-size: 20px;
+            height: 500%;
+            padding-bottom: 10%;
+        }
+        .Youtube-sector{
+            font-size: 23px;
+            margin-left: 100px;
+        }
+        .instragram-follow{
+            font-size: 23px;
+            margin-left: 300px;
+        }
+        .shot-like{
+            font-size: 23px;
+            margin-left: 350px;
+        }
+        .title{
+            display: flex;
+            background-color:grey;
+            border-radius: 20px 20px 40px 30px;
+            border-width: 50px;
+            margin-left: 5%;
+            margin-right: 3%;
+            margin-top: 3%;
+            
+        }
+      
+ 
